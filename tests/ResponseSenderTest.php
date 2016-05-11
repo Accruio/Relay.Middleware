@@ -1,7 +1,7 @@
 <?php
 namespace Relay\ResponseMiddleware;
 
-use Relay\Middleware\FakePhp;
+use Relay\ResponseMiddleware\FakePhp;
 use Zend\Diactoros\Response;
 use Zend\Diactoros\ServerRequestFactory;
 

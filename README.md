@@ -1,10 +1,10 @@
 # Relay Response Middleware
 
-[![Build Status](https://travis-ci.org/accruio/ResponseMiddleware.svg?branch=master)](https://travis-ci.org/agmscode/agms_php)
-[![Latest Stable Version](https://poser.pugx.org/accruio/ResponseMiddleware/v/stable)](https://packagist.org/packages/agmscode/agms_php)
-[![Total Downloads](https://poser.pugx.org/accruio/ResponseMiddleware/downloads)](https://packagist.org/packages/agmscode/agms_php)
-[![Latest Unstable Version](https://poser.pugx.org/accruio/ResponseMiddleware/v/unstable)](https://packagist.org/packages/agmscode/agms_php)
-[![License](https://poser.pugx.org/accruio/ResponseMiddleware/license)](https://packagist.org/packages/agmscode/agms_php)
+[![Build Status](https://travis-ci.org/Accruio/ResponseMiddleware.svg?branch=1.x)](https://travis-ci.org/Accruio/ResponseMiddleware)
+[![Latest Stable Version](https://poser.pugx.org/accruio/response-middleware/v/stable)](https://packagist.org/packages/accruio/response-middleware)
+[![Total Downloads](https://poser.pugx.org/accruio/response-middleware/downloads)](https://packagist.org/packages/accruio/response-middleware)
+[![Latest Unstable Version](https://poser.pugx.org/accruio/response-middleware/v/unstable)](https://packagist.org/packages/accruio/response-middleware)
+[![License](https://poser.pugx.org/accruio/response-middleware/license)](https://packagist.org/packages/accruio/response-middleware)
 
 
 This package include the following Relay-compatible response middleware:
