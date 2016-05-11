@@ -1,5 +1,5 @@
 <?php
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 use Relay\Middleware\FakePhp;
 use Zend\Diactoros\Response;

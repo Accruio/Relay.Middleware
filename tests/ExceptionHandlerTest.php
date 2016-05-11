@@ -1,5 +1,5 @@
 <?php
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 use Exception;
 use Zend\Diactoros\ServerRequestFactory;

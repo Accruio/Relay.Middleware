@@ -1,5 +1,5 @@
 <?php
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 use Zend\Diactoros\ServerRequest;
 use Zend\Diactoros\Stream;

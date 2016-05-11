@@ -1,5 +1,5 @@
 <?php
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 class FakePhp
 {

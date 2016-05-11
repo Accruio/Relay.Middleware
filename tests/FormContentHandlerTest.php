@@ -1,5 +1,5 @@
 <?php
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 use Relay\Middleware\FormContentHandler;
 use Zend\Diactoros\Response;

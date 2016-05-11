@@ -8,7 +8,7 @@
  * @copyright 2015-2016, Relay for PHP
  *
  */
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;

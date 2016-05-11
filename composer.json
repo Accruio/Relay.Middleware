@@ -1,15 +1,15 @@
 {
-    "name": "relay/middleware",
-    "description": "Relay-compatible middleware decorators.",
+    "name": "relay/response",
+    "description": "Relay-compatible response middleware.",
     "type": "library",
-    "homepage": "https://github.com/relayphp/Relay.Middleware",
+    "homepage": "https://github.com/Accruio/ResponseMiddleware",
     "license": "MIT",
     "require": {
         "psr/http-message": "~1.0"
     },
     "autoload": {
         "psr-4": {
-            "Relay\\Middleware\\": "src/"
+            "Relay\\ResponseMiddleware\\": "src/"
         }
     },
     "require-dev": {
@@ -17,7 +17,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Relay\\Middleware\\": "tests/"
+            "Relay\\ResponseMiddleware\\": "tests/"
         }
     }
 }

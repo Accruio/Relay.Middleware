@@ -8,7 +8,7 @@
  * @copyright 2015-2016, Relay for PHP
  *
  */
-namespace Relay\Middleware;
+namespace Relay\ResponseMiddleware;
 
 use Exception;
 use Psr\Http\Message\ServerRequestInterface as Request;
