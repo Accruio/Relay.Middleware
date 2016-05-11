@@ -1,4 +1,4 @@
-# Relay Middleware
+# Relay Response Middleware
 
 [![Build Status](https://travis-ci.org/accruio/ResponseMiddleware.svg?branch=master)](https://travis-ci.org/agmscode/agms_php)
 [![Latest Stable Version](https://poser.pugx.org/accruio/ResponseMiddleware/v/stable)](https://packagist.org/packages/agmscode/agms_php)
@@ -7,7 +7,7 @@
 [![License](https://poser.pugx.org/accruio/ResponseMiddleware/license)](https://packagist.org/packages/agmscode/agms_php)
 
 
-This package include the following Relay-compatible middleware:
+This package include the following Relay-compatible response middleware:
 
 - _ResponseSender_ to send a PSR-7 response
 - _ExceptionHandler_ to handle exceptions from subsequent middleware

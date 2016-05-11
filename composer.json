@@ -1,5 +1,5 @@
 {
-    "name": "relay/response",
+    "name": "accruio/response",
     "description": "Relay-compatible response middleware.",
     "type": "library",
     "homepage": "https://github.com/Accruio/ResponseMiddleware",
