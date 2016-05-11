@@ -1,7 +1,7 @@
 <?php
 namespace Relay\ResponseMiddleware;
 
-use Relay\Middleware\FormContentHandler;
+use Relay\ResponseMiddleware\FormContentHandler;
 use Zend\Diactoros\Response;
 
 class FormContentHandlerTest extends ContentHandlerTestCase
